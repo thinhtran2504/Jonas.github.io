@@ -20,26 +20,22 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Jonas Tran",
+  title: "Hi, I'm Jonas, I'm a Game Designer and PO",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Crafting retention-first gameplay for the next generation of mobile players 🚀 ."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/14rXm4reaL6w9DYMrWQYiAnKRIxp-kpDn/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  linkedin: "https://www.linkedin.com/in/thinh-tranquoc/",
+  gmail: "thinhtran250489@gmail.com",
+  facebook: "https://www.facebook.com/jonas.tran2504/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -49,14 +45,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Designing Smart Systems & LiveOps for Casual and Hybrid Mobile Games",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Mobile F2P Game Design"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ GDD & Feature Specification Documentation"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ KPI & Behavioral Data Analysis (LTV, ARPU, Retention)"
     )
   ],
 
@@ -117,13 +113,13 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "Harvard University",
@@ -153,16 +149,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Game Design Systems & Frameworks", //Insert stack or technology you have experience in
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Analytics & LiveOps Tools",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "60%"
+      Stack: "Game Design Documentation & Prototyping",
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -174,29 +170,29 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "PRODUCT OWNER ACTING GAME DESIGN",
+      company: "Gaia Game Studio",
+      companylogo: require("./assets/images/logagai.png"),
+      date: "Jan 2023 – Apr 2025",
+      desc: "As a Product Manager & Lead Game Designer, I owned and executed the end-to-end product roadmap and backlog prioritization by leveraging real player feedback and behavioral data (retention, ARPU, LTV). I led the full game design process from initial concept through global launch, delivering engaging gameplay and high-quality user experience tailored specifically for the US and EU mobile markets. My role involved defining a clear product vision and long-term strategy, balancing innovative mechanics with business goals such as revenue growth and maximizing player lifetime value. I worked cross-functionally with artists, developers, data analysts, and marketers to ensure timely delivery, high product quality, and alignment on objectives. I also designed meta-game systems, player progression, live events, and monetization mechanics, continuously optimizing through data analysis and A/B testing. Furthermore, I collaborated closely with user acquisition and CRM teams to maximize player engagement and retention throughout the product lifecycle.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Led complete game design cycle from concept ideation to global mobile launch targeting US/EU markets.",
+        "Authored and maintained comprehensive documentation: Game Design Documents (GDDs), feature specs, economy design, and UX flows."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "LEAD OF GAME",
+      company: "Moli Studio",
+      companylogo: require("./assets/images/moli.jpg"),
+      date: "Nov 2019 – 01 2023",
+      desc: " I developed and executed a strategic plan to build the game segment into a comprehensive ecosystem for Moli Group. I was responsible for creating the product sitemap, user flows, and managing feature sets to ensure cohesive user experiences. My role included designing wireframes, prototypes, UI/UX, gameplay mechanics, game loops, level designs, and economy systems to deliver engaging and balanced gameplay. I managed development progress and controlled project timelines, ensuring all tasks aligned with the overall plan. Additionally, I conducted market research focused on top-tier countries such as the US and EU to identify product-market fit and user preferences. Using data analytics and event tracking, I evaluated user behavior to optimize product performance and revenue growth. I also fostered relationships and sought collaboration opportunities with both domestic and international game studios to expand the ecosystem and leverage partnerships effectively."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "PRODUCT OPERATIONS MANAGER",
+      company: "Bluestack",
+      companylogo: require("./assets/images/BlueStacks.png"),
+      date: "Jul 2017 – Mar 2018",
+      desc: "As a Market Analyst and Partnership Coordinator for the Android emulator application market, I evaluated user data and conducted market analysis to identify growth opportunities. I collaborated closely with leading Vietnamese game publishers such as VNG, Funtap, and Soha to launch user acquisition campaigns leveraging the BlueStacks ecosystem. I served as a key communication link between local publishers and the development team in India, reporting compatibility issues and errors to optimize and improve application performance. Additionally, I coordinated with key opinion leaders (KOLs) to execute targeted promotional campaigns, enhancing BlueStacks’ visibility and user base in the Vietnamese market."
     }
   ]
 };
@@ -239,7 +235,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -300,7 +296,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -324,7 +320,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -343,7 +339,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -356,7 +352,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -365,22 +361,22 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Connect me",
+  number: "+84901805333",
+  email_address: "thinhtran250489@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
