@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/thinhtran2504/Jonas.github.io.git/static/css/main.e739fd81.css",
-    "main.js": "/thinhtran2504/Jonas.github.io.git/static/js/main.759593b1.js",
-    "static/media/DocMakeUp.png": "/thinhtran2504/Jonas.github.io.git/static/media/DocMakeUp.68a9014ef188f70a419f.png",
-    "static/media/Docavt.png": "/thinhtran2504/Jonas.github.io.git/static/media/Docavt.6bea1023048a111b7b92.png",
-    "static/media/BlueStacks.png": "/thinhtran2504/Jonas.github.io.git/static/media/BlueStacks.3d179d7ca21885c40bb7.png",
-    "static/media/Docpok.png": "/thinhtran2504/Jonas.github.io.git/static/media/Docpok.e30ad05c65574fd36561.png",
-    "static/media/moli.jpg": "/thinhtran2504/Jonas.github.io.git/static/media/moli.7422ebff9000632525f9.jpg",
-    "static/media/AVT.webp": "/thinhtran2504/Jonas.github.io.git/static/media/AVT.54f23d4d87dda103cf4e.webp",
-    "static/media/makeup.webp": "/thinhtran2504/Jonas.github.io.git/static/media/makeup.e6c2a0b0e174e01fae78.webp",
-    "static/media/POK.webp": "/thinhtran2504/Jonas.github.io.git/static/media/POK.0b43fdd2d7427c9e8b47.webp",
-    "index.html": "/thinhtran2504/Jonas.github.io.git/index.html",
-    "main.e739fd81.css.map": "/thinhtran2504/Jonas.github.io.git/static/css/main.e739fd81.css.map",
-    "main.759593b1.js.map": "/thinhtran2504/Jonas.github.io.git/static/js/main.759593b1.js.map"
+    "main.css": "/thinhtran2504/Jonas.github.io/static/css/main.e739fd81.css",
+    "main.js": "/thinhtran2504/Jonas.github.io/static/js/main.2871068c.js",
+    "static/media/DocMakeUp.png": "/thinhtran2504/Jonas.github.io/static/media/DocMakeUp.68a9014ef188f70a419f.png",
+    "static/media/Docavt.png": "/thinhtran2504/Jonas.github.io/static/media/Docavt.6bea1023048a111b7b92.png",
+    "static/media/BlueStacks.png": "/thinhtran2504/Jonas.github.io/static/media/BlueStacks.3d179d7ca21885c40bb7.png",
+    "static/media/Docpok.png": "/thinhtran2504/Jonas.github.io/static/media/Docpok.e30ad05c65574fd36561.png",
+    "static/media/moli.jpg": "/thinhtran2504/Jonas.github.io/static/media/moli.7422ebff9000632525f9.jpg",
+    "static/media/AVT.webp": "/thinhtran2504/Jonas.github.io/static/media/AVT.54f23d4d87dda103cf4e.webp",
+    "static/media/makeup.webp": "/thinhtran2504/Jonas.github.io/static/media/makeup.e6c2a0b0e174e01fae78.webp",
+    "static/media/POK.webp": "/thinhtran2504/Jonas.github.io/static/media/POK.0b43fdd2d7427c9e8b47.webp",
+    "index.html": "/thinhtran2504/Jonas.github.io/index.html",
+    "main.e739fd81.css.map": "/thinhtran2504/Jonas.github.io/static/css/main.e739fd81.css.map",
+    "main.2871068c.js.map": "/thinhtran2504/Jonas.github.io/static/js/main.2871068c.js.map"
   },
   "entrypoints": [
     "static/css/main.e739fd81.css",
-    "static/js/main.759593b1.js"
+    "static/js/main.2871068c.js"
   ]
 }
