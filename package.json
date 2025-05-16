@@ -1,0 +1,42 @@
+{
+  "name": "jonas.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "framer-motion": "^12.12.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-easy-emoji": "^1.8.1",
+    "react-router-dom": "^7.6.0",
+    "react-scripts": "5.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhtran2504/Jonas.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinhtran2504/Jonas.github.io/issues"
+  },
+  "homepage": "https://thinhtran2504.github.io/Jonas.github.io"
+}

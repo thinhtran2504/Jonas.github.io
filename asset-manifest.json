@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Jonas.github.io/static/css/main.5792d36a.css",
+    "main.js": "/Jonas.github.io/static/js/main.30018562.js",
+    "static/media/DocMakeUp.png": "/Jonas.github.io/static/media/DocMakeUp.68a9014ef188f70a419f.png",
+    "static/media/Docavt.png": "/Jonas.github.io/static/media/Docavt.6bea1023048a111b7b92.png",
+    "static/media/BlueStacks.png": "/Jonas.github.io/static/media/BlueStacks.3d179d7ca21885c40bb7.png",
+    "static/media/Docpok.png": "/Jonas.github.io/static/media/Docpok.e30ad05c65574fd36561.png",
+    "static/media/moli.jpg": "/Jonas.github.io/static/media/moli.7422ebff9000632525f9.jpg",
+    "static/media/AVT.webp": "/Jonas.github.io/static/media/AVT.54f23d4d87dda103cf4e.webp",
+    "static/media/makeup.webp": "/Jonas.github.io/static/media/makeup.e6c2a0b0e174e01fae78.webp",
+    "static/media/POK.webp": "/Jonas.github.io/static/media/POK.0b43fdd2d7427c9e8b47.webp",
+    "index.html": "/Jonas.github.io/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5792d36a.css",
+    "static/js/main.30018562.js"
+  ]
+}
